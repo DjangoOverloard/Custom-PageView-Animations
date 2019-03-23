@@ -1,6 +1,7 @@
-# erjano_flurography
+# Customo_Pago_Viewo_Animationso
 
-A new Flutter project.
+A new Flutter project, that was made with help of my friend Kekland.
+Link to him: https://github.com/kekland
 
 ## Getting Started
 
